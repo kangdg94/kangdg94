@@ -38,7 +38,11 @@
  ## Problem Solving :muscle: 
  
 <p>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)</br>
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)
+
+</br>
+ 
  </p>
  
  ## GitHub :muscle:
