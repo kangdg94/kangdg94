@@ -5,7 +5,7 @@
 <!-- <img align="right" height="100" src="https://user-images.githubusercontent.com/75469131/213887495-9953614d-3516-4781-98a2-17908e379c4f.gif" /></a> -->
 
   ### 🤞Donggeun 
-  <a href="mailto:kdk7854@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:kdk7854@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdk7854@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://kangdg94.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  </br>
  Hi, I am trying to become a nice Data Scientist😎
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
   
+ </br>
  
  <!-- <h2> Algorithm </h2> -->
  ### Problem Solving :muscle: 
@@ -42,7 +43,7 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)
 
 </br>
- 
+
  </p>
  
  ### GitHub Status 🚀
