@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
   <img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
  
- ### Algorithm
+ <h2> Algorithm </h2>
  
  ---
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)<br/>
