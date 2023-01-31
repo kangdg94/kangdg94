@@ -26,8 +26,8 @@ Hi, I am trying to become a nice Data Scientist😎
  </a>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdg94&show_icons=true&theme=radical)</a></br>
-<img align="centerleft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/> </br>
-<img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a></br>
+<img align="centerleft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
+<img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></br>
 
  
 <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
