@@ -33,7 +33,7 @@
 </p>
  <p>
  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
- <img src="https://img.shields.io/badge/HBase-EF2929?style=flat-square&logo=phpMyAdmin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HBase-EF2929?style=flat-square&logo=HBase&logoColor=white"/>
  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
