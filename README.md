@@ -31,7 +31,7 @@
  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
  <img src="https://img.shields.io/badge/Apache%20Nifi-4ACBD6?style=flat-square&logo=Apache%20Nifi&logoColor=white"/>
- <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
  
 </p>
   
@@ -48,7 +48,7 @@
 
  </p>
  
- ### GitHub Status 🚀 <a href="https://github.com/kangdg94"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+ ### GitHub Status 🚀 
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdg94&show_icons=true&theme=radical)
