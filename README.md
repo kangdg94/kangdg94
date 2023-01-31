@@ -38,7 +38,7 @@
  </br>
  
  <!-- <h2> Algorithm </h2> -->
- ### Algorithm Problem Solving :muscle: 
+ ### Algorithm Problem Solving ✨
  
 <p>
  
