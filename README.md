@@ -8,7 +8,7 @@
   <a href="mailto:kdk7854@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdk7854@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://kangdg94.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  </br>
- Hi, I am trying to become a nice Data Scientist😎
+ Hi, I am trying to become a nice Data Scientist, 自强不息,厚德载物😎
  
   
   ---
@@ -38,7 +38,7 @@
  </br>
  
  <!-- <h2> Algorithm </h2> -->
- ### Problem Solving :muscle: 
+ ### Algorithm Problem Solving :muscle: 
  
 <p>
  
@@ -55,8 +55,5 @@
 <img align="centerleft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
 <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></br>
 <a href="https://github.com/kangdg94"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
- 
-<img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 </div>
