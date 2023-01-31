@@ -17,16 +17,16 @@ Hi, I am trying to become a nice Data Scientist😎
   
  
  <!-- <h2> Algorithm </h2> -->
- ## Problem Solving :muscle:
+ ## Problem Solving :muscle: 
  </a>
   
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)</br>
  
- <!-- <h2> Algorithm </h2> -->
  ## GitHub :muscle:
  </a>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdg94&show_icons=true&theme=radical)</a></br>
-<img align="centerleft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
+<img align="centerleft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/> </br>
 <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a></br>
 
  
