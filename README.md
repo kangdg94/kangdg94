@@ -12,6 +12,11 @@
 
 ## Introduction :raised_hands:
 Hi, I am trying to become a nice Data Scientist😎
+  
+<div align="right">
+  Mail
+  blog
+ </div>
 <br/><br/>
     
   
