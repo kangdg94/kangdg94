@@ -42,7 +42,8 @@
  
 <p>
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)
+ <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)-->
+ <a href="https://solved.ac/kdk7854"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kdk7854"/></a>
 
 </br>
 
