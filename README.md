@@ -33,7 +33,9 @@
 </p>
 <p>
 
- <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=black"/>
+ 
 </p>
   
  </br>
