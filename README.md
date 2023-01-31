@@ -36,12 +36,12 @@
  
  <!-- <h2> Algorithm </h2> -->
  ## Problem Solving :muscle: 
- </a>
+
   
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)</br>
  
  ## GitHub :muscle:
- </a>
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdg94&show_icons=true&theme=radical)
 <img align="centerleft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
