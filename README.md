@@ -27,14 +27,19 @@
  <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white" />
 </p>
 <p>
-
  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
- <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
- <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Apache%20Nifi-4ACBD6?style=flat-square&logo=Apache%20Nifi&logoColor=white"/>
- 
 </p>
-  
+ <p>
+ <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
+ <img src="https://img.shields.io/badge/HBase-EF2929?style=flat-square&logo=phpMyAdmin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</p>
  </br>
  
  <!-- <h2> Algorithm </h2> -->
