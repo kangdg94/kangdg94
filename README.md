@@ -12,10 +12,10 @@
 
 ## Introduction :raised_hands:
 Hi, I am trying to become a nice Data Scientist😎
-  
+
 <div align="right">
-  Mail
-  blog
+  Mail : kdk7854@gmail.com </br>
+  blog : https://kangdg94.github.io/ </br>
  </div>
 <br/><br/>
     
