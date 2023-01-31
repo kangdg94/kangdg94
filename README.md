@@ -19,19 +19,19 @@
 ### Skills 💪
 #### Platforms & Languages
 <p> 
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
- <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white" />
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
+ <img src="https://img.shields.io/badge/Java-FA7343?style=flat-square&logo=Java&logoColor=white" />
 </p>
 <p>
 
  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
- <img src="https://img.shields.io/badge/Apache%20Nifi-4ACBD6?style=flat-square&logo=Apache%20Nifi&logoColor=white"/>
  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Apache%20Nifi-4ACBD6?style=flat-square&logo=Apache%20Nifi&logoColor=white"/>
  
 </p>
   
