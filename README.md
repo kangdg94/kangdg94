@@ -19,7 +19,7 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
- <img src="https://img.shields.io/badge/C-#00599C?style=flat-square&logo=C&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/> 
  
  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
