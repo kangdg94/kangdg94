@@ -31,6 +31,7 @@
  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white"/>
  <img src="https://img.shields.io/badge/Apache%20Nifi-4ACBD6?style=flat-square&logo=Apache%20Nifi&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=Apache%20Hive&logoColor=white"/>
  
 </p>
   
