@@ -36,9 +36,10 @@
  
  <!-- <h2> Algorithm </h2> -->
  ## Problem Solving :muscle: 
-
-  
+ 
+<p>
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kdk7854)](https://solved.ac/kdk7854)</br>
+ </p>
  
  ## GitHub :muscle:
 
