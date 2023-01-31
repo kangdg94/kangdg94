@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/seondal.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdg94&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdg94&show_icons=true&theme=dark)
   
 </div>
