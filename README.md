@@ -8,7 +8,7 @@
   <a href="mailto:kdk7854@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdk7854@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://kangdg94.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  </br>
- Hi, I am trying to become a nice Data Scientist </br> 自强不息,厚德载物😎
+ Hi, I am trying to become a Data Scientist </br> 自强不息,厚德载物😎
  
   
   ---
