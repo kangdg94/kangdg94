@@ -35,7 +35,7 @@
   
  
  <!-- <h2> Algorithm </h2> -->
- ## Problem Solving :muscle: 
+ ### Problem Solving :muscle: 
  
 <p>
  
@@ -45,7 +45,7 @@
  
  </p>
  
- ## GitHub :muscle:
+ ### GitHub :muscle:
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdg94&show_icons=true&theme=radical)
