@@ -4,7 +4,7 @@
 <!--<img width="40" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" /> -->
 <!-- <img align="right" height="100" src="https://user-images.githubusercontent.com/75469131/213887495-9953614d-3516-4781-98a2-17908e379c4f.gif" /></a> -->
 
-  ### Donggeun 🤞
+  ### Donggeun
   <a href="mailto:kdk7854@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kdk7854@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://kangdg94.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
  </br>
