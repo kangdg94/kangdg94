@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-### Skills 💪
+### Skills 
 #### Platforms & Languages
 <p> 
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" /> 
@@ -42,7 +42,7 @@
  </br>
  
  <!-- <h2> Algorithm </h2> -->
- ### Algorithm Problem Solving ✨
+ ### Algorithm Problem Solving 
  
 <p>
  
